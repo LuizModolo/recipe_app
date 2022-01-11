@@ -154,7 +154,7 @@ hr {
 }
 
 button:disabled {
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 /* -----Login----- */
