@@ -266,6 +266,7 @@ button:disabled {
   margin-bottom: 8px;
   padding: 0;
   width: 30vw;
+  font-size: 0.9rem;
 }
 
 /* -----Deck----- */
@@ -295,9 +296,7 @@ button:disabled {
   color: var(--azul);
   font-size: 1.1rem;
   font-weight: 700;
-  height: 40px;
-  padding-left: 15px;
-  padding-top: 5px;
+  padding: 5px 0 5px 15px;
   width: 100%;
   margin-top: 0;
 }
@@ -374,6 +373,7 @@ button:disabled {
   padding: 5px 0;
   padding-left: 15px;
   text-align: start;
+  margin: 0 0 8px 0;
 }
 
 /* -----Recipe----- */
