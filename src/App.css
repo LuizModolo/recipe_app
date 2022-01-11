@@ -210,7 +210,7 @@ button:disabled {
 
 .exploreIngr {
   font-size: 1.1rem;
-  margin-top: 5px;
+  margin: 5px 0 8px 0;
 }
 
 .headerBtn {
@@ -342,6 +342,11 @@ button:disabled {
   color: var(--branco);
   font-weight: 700;
   width: 60vw;
+  font-size: 1rem;
+}
+
+.exploreFoodSection p {
+  font-size: 1rem;
 }
 
 /* -----ExploreIngredients----- */
