@@ -53,7 +53,8 @@ export default function DoneCard(props) {
       <div>
         <p
           data-testid={ `${index}-horizontal-done-date` }
-          className={ type === 'comida' ? 'doneDateMeal' : 'doneDateDrink' }
+          className={ type === 'comida'
+            && tags.length > 0 ? 'doneDateMeal' : 'doneDateDrink' }
         >
           {`Done date: ${doneDate}`}
         </p>
