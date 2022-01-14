@@ -76,7 +76,7 @@ Para visualizar no formato correto, que o projeto foi desenhado:
 
 Abaixo um GIF demonstrando principais páginas e funcionalidades do App.
 
-![demonstração-da-aplicação](/Users/luizmodolo/trybe/projects/recipe_app/public/demonstracao.gif)
+![demonstração-da-aplicação](https://github.com/LuizModolo/recipe_app/blob/main/public/demonstracao.gif)
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de modolo.luizfernando@gmail.com
