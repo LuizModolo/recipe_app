@@ -90,9 +90,11 @@ html {
 }
 
 body {
-  height: 640px;
   margin: 0 auto;
-  width: 360px;
+  max-height: 100vh;
+  max-width: 100vw;
+  min-height: 100vh;
+  min-width: 100vw;
 }
 
 body, input, textarea, button {
@@ -416,7 +418,7 @@ button:disabled {
   display: flex;
   justify-content: space-evenly;
   position: absolute;
-  top: 272px;
+  top: 280px;
   width: 100vw;
   z-index: 1;
 }
@@ -486,7 +488,7 @@ button:disabled {
 
 .btnDiv button {
   background-color: var(--azul);
-  bottom: 0;
+  bottom: -2px;
   color: var(--branco);
   font-weight: 700;
   position: fixed;
@@ -573,7 +575,7 @@ button:disabled {
 }
 
 .mainImage {
-  width: 360px;
+  width: 100vw;
 }
 
 /* -----Done Recipes----- */
