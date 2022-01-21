@@ -17,7 +17,7 @@ O projeto foi para criar um app de receitas com diversas funcionalidades utiliza
 
 ## Deploy
 
-[Link para o deploy do projeto](https://recipe-app-chi-one.vercel.app).
+[Link para o deploy do projeto](https://recipe-app.luizmodolo.dev).
 
 Para melhor visualização no formato que o aplicativo foi pensado para rodar:
 
